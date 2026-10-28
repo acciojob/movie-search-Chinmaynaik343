@@ -1,6 +1,6 @@
 
 import React, { useState } from "react";
-import "./App.css";
+import ".styles/App.css";
 
 const API_KEY = "99eb9fd1";
 
